@@ -1,0 +1,16 @@
+C:\Users\user\source\repos\desenvolvimentoDesktop\desenvolvimentoDesktop\bin\Debug\net8.0-windows\desenvolvimentoDesktop.exe
+C:\Users\user\source\repos\desenvolvimentoDesktop\desenvolvimentoDesktop\bin\Debug\net8.0-windows\desenvolvimentoDesktop.dll
+C:\Users\user\source\repos\desenvolvimentoDesktop\desenvolvimentoDesktop\obj\Debug\net8.0-windows\desenvolvimentoDesktop.Calculadora.resources
+C:\Users\user\source\repos\desenvolvimentoDesktop\desenvolvimentoDesktop\obj\Debug\net8.0-windows\desenvolvimentoDesktop.csproj.GenerateResource.cache
+C:\Users\user\source\repos\desenvolvimentoDesktop\desenvolvimentoDesktop\obj\Debug\net8.0-windows\desenvolvimentoDesktop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\desenvolvimentoDesktop\desenvolvimentoDesktop\obj\Debug\net8.0-windows\desenvolvimentoDesktop.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\desenvolvimentoDesktop\desenvolvimentoDesktop\obj\Debug\net8.0-windows\desenvolvimentoDesktop.AssemblyInfo.cs
+C:\Users\user\source\repos\desenvolvimentoDesktop\desenvolvimentoDesktop\obj\Debug\net8.0-windows\desenvolvimentoDesktop.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\desenvolvimentoDesktop\desenvolvimentoDesktop\obj\Debug\net8.0-windows\desenvolvimentoDesktop.dll
+C:\Users\user\source\repos\desenvolvimentoDesktop\desenvolvimentoDesktop\obj\Debug\net8.0-windows\refint\desenvolvimentoDesktop.dll
+C:\Users\user\source\repos\desenvolvimentoDesktop\desenvolvimentoDesktop\obj\Debug\net8.0-windows\desenvolvimentoDesktop.pdb
+C:\Users\user\source\repos\desenvolvimentoDesktop\desenvolvimentoDesktop\bin\Debug\net8.0-windows\desenvolvimentoDesktop.deps.json
+C:\Users\user\source\repos\desenvolvimentoDesktop\desenvolvimentoDesktop\bin\Debug\net8.0-windows\desenvolvimentoDesktop.runtimeconfig.json
+C:\Users\user\source\repos\desenvolvimentoDesktop\desenvolvimentoDesktop\bin\Debug\net8.0-windows\desenvolvimentoDesktop.pdb
+C:\Users\user\source\repos\desenvolvimentoDesktop\desenvolvimentoDesktop\obj\Debug\net8.0-windows\desenvolvimentoDesktop.genruntimeconfig.cache
+C:\Users\user\source\repos\desenvolvimentoDesktop\desenvolvimentoDesktop\obj\Debug\net8.0-windows\ref\desenvolvimentoDesktop.dll
